@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MessDetectorOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCSFixerOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PHPCodeSnifferOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/security-bundle" />
+      <path value="$PROJECT_DIR$/project-back/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/security-csrf" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/password-hasher" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/property-info" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/property-access" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/twig-bundle" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/dependency-injection" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/web-profiler-bundle" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/deprecation-contracts" />
+      <path value="$PROJECT_DIR$/project-back/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/security-http" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/security-core" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/stopwatch" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/string" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/twig-bridge" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/flex" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/error-handler" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/yaml" />
+      <path value="$PROJECT_DIR$/project-back/vendor/composer" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/polyfill-intl-grapheme" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/cache-contracts" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/polyfill-intl-normalizer" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/runtime" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/framework-bundle" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/cache" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/dotenv" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/filesystem" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/project-back/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/var-exporter" />
+      <path value="$PROJECT_DIR$/project-back/vendor/psr/event-dispatcher" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/config" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/maker-bundle" />
+      <path value="$PROJECT_DIR$/project-back/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/project-back/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/project-back/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/project-back/vendor/doctrine/inflector" />
+    </include_path>
+  </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="8.1" />
+  <component name="PhpStanOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+  <component name="PsalmOptionsConfiguration">
+    <option name="transferred" value="true" />
+  </component>
+</project>
